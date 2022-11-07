@@ -1,1 +1,2 @@
-# nembess
+# NEMBESS 🔋
+[NEMBESS](https://nembess.com) is a free visualisation tool for the analysis of Battery Energy Storage System (BESS) operation in the NEM. NEMBESS has recently expanded to include Virtual Power Plants (VPPs).
